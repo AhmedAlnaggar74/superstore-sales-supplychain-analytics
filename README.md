@@ -26,20 +26,6 @@ The primary objective is to analyze historical performance across product catego
 └─────────────────┘       └─────────────────┘       └────────────────────────┘       └──────────────────────┘
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 1. **Extraction & Transformation (Power Query):**
    * Loaded raw sales, regional, and return tables.
    * Standardized data types (Currency, Order Dates, Category fields).
@@ -68,16 +54,14 @@ The primary objective is to analyze historical performance across product catego
 
 ---
 
-## 🚀 How to Use / Reproduce
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/your-username/superstore-sales-analytics.git](https://github.com/your-username/superstore-sales-analytics.git)
-   
+## 🛡️ License
 
-2. ​Open Superstore_Dashboard.xlsx in Microsoft Excel 2016 or newer.
-3. ​Enable content/macros if prompted to allow Data Model connections.
-4.​Interact with the Year, Month, Region, and Segment slicers on the Dashboard sheet to filter dynamic KPIs and charts.
+This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
+
+## 🌟 About Me
+
+Hi there! I'm Ahmed Alnaggar. I'm a data analyst.
 
 
 
