@@ -13,7 +13,7 @@ The primary objective is to analyze historical performance across product catego
 
 ## 🖼️ Dashboard Preview
 
-![Superstore Dashboard] (docs/supersto: dashboard_preview.png)
+![Superstore Dashboard] (docs/dashboard_preview.png)
 
 ---
 
